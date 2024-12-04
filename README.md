@@ -1,3 +1,7 @@
+# Description
+
+This app allows employers to manage, and recruit employees from a Github API. The employer can save, or reject candidates based on their selections.
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
