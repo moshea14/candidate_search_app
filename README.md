@@ -35,3 +35,7 @@ export default {
 
 ---
 © 2024 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+
+# Contact
+
+If you have any questions or need further clarification, please don't hesitate to reach out to me at my github profile: [github.com/moshea14](https://github.com/moshea14) or email me at matthewoshea00@gmail.com.
